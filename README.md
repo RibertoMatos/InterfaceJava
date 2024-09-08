@@ -1,7 +1,7 @@
 ## Exercicio de interface
 
 Nesse exercicios organizamos o codigo criando pacotes especificos para classes especificas, deixando de forma organizada
-tambem utilizando iterface para atribuir a classe multifuncional mais de uma funcão uma vez que uma classe não permite herança multipla
+tambem utilizando interface para atribuir a classe multifuncional mais de uma funcão, uma vez que uma classe não permite herança multipla.
 
 ## Estrutura de pacotes
 
